@@ -11,6 +11,7 @@ A clean and responsive mobile application built with **Flutter** that delivers r
 * **Dynamic Article Details:** View full article previews with title, image, publication date, and description.
 * **Direct Web Redirection:** Uses `url_launcher` to open full articles seamlessly in the device's default web browser.
 * **Robust Error Handling:** Smooth UI transitions for loading states, network failures, and missing images.
+* **State-Driven Refresh:** Integrated Provider state management to handle application state and pull-to-refresh data flows efficiently.
 
 ---
 
@@ -20,7 +21,7 @@ A clean and responsive mobile application built with **Flutter** that delivers r
 * **Language:** [Dart](https://dart.dev/)
 * **Networking:** `http` / `dio` (REST API Integration & JSON Parsing)
 * **URL Launcher:** [`url_launcher`](https://pub.dev/packages/url_launcher) (External links redirection)
-* **State Management:** Provider / GetX
+* **State Management:** [Provider](https://pub.dev/packages/provider) (Managing app state, loading indicators, and refresh logic)
 
 ---
 
