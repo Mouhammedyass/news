@@ -1,0 +1,1 @@
+const String linkServerName = "https://newsapi.org/v2/everything?q=egypt&apiKey=38a965719af643aca2f20c6e6f98a9e1";
